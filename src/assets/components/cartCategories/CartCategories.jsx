@@ -138,7 +138,7 @@ const CartCategories = ()=> {
 
  <div className='video-player'>
 
- <ReactPlayer url='https://youtu.be/ShjzEckueZU?feature=shared' height={"240px"} width={"90%"}/>
+ <ReactPlayer url='https://youtu.be/ShjzEckueZU?feature=shared' height={"24`0px"} width={"90%"}/>
  </div>
 
 
